@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead:ead xmlns:ead="urn:isbn:1-931666-22-9">
+  <ead:eadheader>
+    <ead:profiledesc>
+      <ead:creation>11.04.2022</ead:creation>
+    </ead:profiledesc>
+  </ead:eadheader>
+  <ead:archdesc level="collection" id="96d08fd7-458a-49e2-9c42-8c393222f0da">
+    <ead:did>
+      <ead:unittitle>Stadtarchiv Kiel</ead:unittitle>
+    </ead:did>
+    <ead:dsc>
+      <ead:c level="collection" id="DE-476-12" otherlevel="file">
+        <ead:did>
+          <ead:unitid>StadtA Kiel Ka</ead:unitid>
+          <ead:unittitle>Karten und Pläne</ead:unittitle>
+        </ead:did>
+        <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901009169" otherlevel="file">
+          <ead:did>
+            <ead:unittitle>1 Karten und Pläne</ead:unittitle>
+          </ead:did>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901019169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.3 Kiel: Stadtgebiet gesamt / mit Umgebung</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901079169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.3.4 1700 - 1799</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="3054" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  12</ead:unitid>
+                  <ead:unittitle>Karte von der Stadt Kiel und der umliegenden Gegend</ead:unittitle>
+                  <ead:unitdate>1793</ead:unitdate>
+                  <ead:materialspec>Fotokopie</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: G. H. B. Klessel</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Andreas Stötterup</ead:origination>
+                  <ead:abstract>kleiner Galgenteich - Dorfgarten - Brunswik</ead:abstract>
+                  <ead:note>verbessert gestochen von Voigts 1806 (Nr.13); kopiert von Jahn 1878 (Nr. 727/748)</ead:note>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Stötterup, Andreas | 131894137</ead:persname>
+                    <ead:persname>Klessel, Christian Herrmann Benedict | 1191113620</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00012</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="3056" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  753</ead:unitid>
+                  <ead:unittitle>Kiel - Chilonium</ead:unittitle>
+                  <ead:unitdate normal="um 1730, kopiert 1882">1730</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 25,0</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 27,4</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Druck auf Papier</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: Casper Danckwerth</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Gabriel Bodenehr</ead:origination>
+                  <ead:abstract>aus dem Werk von Bodenehr, Augsburg, ca. 1730, kopier von H. B. Jahn</ead:abstract>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Bodenehr, Gabriel (Verleger) | 118660489</ead:persname>
+                    <ead:persname>Jahn, Hugo Bernhard | 1053292694</ead:persname>
+                    <ead:persname>Danckwerth, Caspar | 128718021</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00753</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901089169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.3.5 1800 - 1899</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="835" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  1806</ead:unitid>
+                  <ead:unittitle>Plan der Stadt Kiel</ead:unittitle>
+                  <ead:unitdate normal="0000-03-01/0000-03-01">1894</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 110</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 70</ead:dimensions>
+                    <ead:dimensions>Maßstab: 1:4000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Druck auf Leinen</ead:materialspec>
+                  <ead:origination>Herr Andresen, Mönkeberg</ead:origination>
+                  <ead:origination label="pre">Verfasser: H. Gier</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Lipsius &amp; Tischer</ead:origination>
+                  <ead:abstract>Westufer: Rondeel - Belvedere</ead:abstract>
+                  <ead:note>vgl. 1021</ead:note>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Gier, H.</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka01806</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="3130" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  42</ead:unitid>
+                  <ead:unittitle>Karte von dem Stadtkreise Kiel und den Gemeindebezirken Gaarden aus dem Landkreise Kiel sowie Ellerbek und Gaarden aus dem Kreise Plön</ead:unittitle>
+                  <ead:unitdate>1893</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 80</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 100</ead:dimensions>
+                    <ead:dimensions>Maßstab: 1:10000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Druck auf Papier, teilcoloriert</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: Hugo Bernhard Jahn</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Heinrich Eckhardt</ead:origination>
+                  <ead:abstract>Kaiser-Wilhelm-Kanal - Meimersdorf</ead:abstract>
+                  <ead:note>zwei Exemplare, gleiche Karte Nr. 756; 1891 Nr. 38, 1894 Nr. 45/46</ead:note>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Eckhardt, Heinrich | 11633598X</ead:persname>
+                    <ead:persname>Jahn, Hugo Bernhard | 1053292694</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00042</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="3086" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  26</ead:unitid>
+                  <ead:unittitle>Plan der Stadt Kiel mit dem Stadterweiterungsplan</ead:unittitle>
+                  <ead:unitdate>1869</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 35</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 35</ead:dimensions>
+                    <ead:dimensions>Maßstab: 1:10000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Druck auf Papier</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: Gustav Ludolf Martens</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Druck: Schmidt und Klaunig; Verlag der Universitätsbuchhandlung Kiel</ead:origination>
+                  <ead:abstract>Schreventeich - Ellerbek</ead:abstract>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Martens, Gustav Ludolf | 116800917</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00026</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="3088" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  1312</ead:unitid>
+                  <ead:unittitle>Plan der Stadt Kiel mit dem Stadterweiterungsplan (mit Einzeichnungen der Zählbezirke zur Volkszählung 1871)</ead:unittitle>
+                  <ead:unitdate normal="0000-03-01/0000-03-01">1869</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Maßstab: ca 1:10000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Lithographie mit farbigen Einzeichnungen</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: W.H. Meyer</ead:origination>
+                  <ead:origination label="pre">Herausgeber: F. Mohr, lithographische Anstalt</ead:origination>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Mohr, Christian Friedrich | 1037547438</ead:persname>
+                    <ead:persname>Meyer, W. H.</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka01312</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901099169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.3.6 1900 - 1944</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="3233" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  8</ead:unitid>
+                  <ead:unittitle>Verkehrsplan der Stadt Kiel und der weiteren Umgebung</ead:unittitle>
+                  <ead:materialspec>Druck auf Papier</ead:materialspec>
+                  <ead:origination label="pre">Verfasser: Kieler Verkehrsverein e.V.</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Chr. Donath</ead:origination>
+                  <ead:abstract>nur Straßenverzeichnis</ead:abstract>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Donath, Chr.</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>urheberrechtlich geschützt</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00008</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="4579" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  955 m</ead:unitid>
+                  <ead:unittitle>Bebauungspläne (Lagepläne)</ead:unittitle>
+                  <ead:unitdate>1905</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Maßstab: 1:2000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:origination label="pre">Verfasser: Schnabel</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Stadtbauamt Kiel</ead:origination>
+                  <ead:abstract>Holstenstraße (Ziegelteich - Schevenbrücke), auf der Basis des Fluchtlinienplans von 1905</ead:abstract>
+                  <ead:note>Z:\Stadtpläne\Dateien zum Import\Kartenimport\Einzelbilder\955_13.jpg</ead:note>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Schnabel, Karl Albert Max</ead:persname>
+                    <ead:geogname>Vorstadt</ead:geogname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka00955-m</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901C99169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.3.8 1975 - 1999</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="127" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  1387</ead:unitid>
+                  <ead:unittitle>Radwegenetz - Neuregelung der Benutzungspflicht</ead:unittitle>
+                  <ead:unitdate>1999</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 40</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 60</ead:dimensions>
+                    <ead:dimensions>Maßstab: 1:50000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Farbkopie (Laser?)</ead:materialspec>
+                  <ead:origination>Stadt Kiel</ead:origination>
+                  <ead:origination label="pre">Verfasser: Stadtvermessungsamt</ead:origination>
+                  <ead:origination label="pre">Herausgeber: Tiefbau</ead:origination>
+                  <ead:abstract>Stadtplan Kiel mit Einzeichnung der benutzungspflichtigen und nicht-benutzungspflichtigen Radwege und -fahrstreifen</ead:abstract>
+                </ead:did>
+                <ead:accessrestrict>Datenlizenz Deutschland - Namensnennung - Version 2.0; www.govdata.de/dl-de/by-2-0</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka01387</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901029169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.5 Einzelne Stadtteile</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F109010C9169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.5.1 Innenstadt Mitte</ead:unittitle>
+              </ead:did>
+              <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901EA9169" otherlevel="file">
+                <ead:did>
+                  <ead:unittitle>1.5.1.1 Altstadt</ead:unittitle>
+                </ead:did>
+                <ead:c level="file" id="3409" otherlevel="file">
+                  <ead:did>
+                    <ead:unitid>Ka  444</ead:unitid>
+                    <ead:unittitle>Ausbau des Innenhafens</ead:unittitle>
+                    <ead:unitdate>1901</ead:unitdate>
+                    <ead:physdesc>
+                      <ead:dimensions>Breite in cm: 54</ead:dimensions>
+                      <ead:dimensions>Länge in cm: 76</ead:dimensions>
+                      <ead:dimensions>Maßstab: 1:1000</ead:dimensions>
+                    </ead:physdesc>
+                    <ead:materialspec>Buntdruck auf Papier</ead:materialspec>
+                    <ead:origination label="pre">Verfasser: Stadtbauamt Kiel, Kruse</ead:origination>
+                    <ead:origination label="pre">Herausgeber: Ludwig Handorff</ead:origination>
+                    <ead:abstract>Eisenbahndamm-Bootshafen-Seegarten</ead:abstract>
+                  </ead:did>
+                  <ead:index>
+                    <ead:indexentry>
+                      <ead:persname>Handorff, Ludwig | 121418524X</ead:persname>
+                      <ead:persname>Kruse, Maximilian</ead:persname>
+                      <ead:geogname>Altstadt</ead:geogname>
+                      <ead:geogname>Vorstadt</ead:geogname>
+                    </ead:indexentry>
+                  </ead:index>
+                  <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                  <ead:otherfindaid>
+                    <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                  </ead:otherfindaid>
+                  <ead:daogrp>
+                    <ead:daodesc>
+                      <ead:list>
+                        <ead:item>
+                          <ead:name>Ka00444</ead:name>
+                        </ead:item>
+                      </ead:list>
+                    </ead:daodesc>
+                  </ead:daogrp>
+                </ead:c>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901879169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.4 Kartenwerke</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901F09169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.4.13 Aufbaupläne 1949 - 1966</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="1683" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka  2659</ead:unitid>
+                  <ead:unittitle>Aufbauplan der Gemeinde Moorsee: Flächennutzungsplan</ead:unittitle>
+                  <ead:unitdate>1958</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Breite in cm: 40</ead:dimensions>
+                    <ead:dimensions>Länge in cm: 40</ead:dimensions>
+                    <ead:dimensions>Maßstab: 1:5000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:materialspec>Lichtpause mit farbigen Einzeichnungen</ead:materialspec>
+                  <ead:origination>Stadtplanungsamt</ead:origination>
+                  <ead:origination label="pre">Gemeinde Moorsee</ead:origination>
+                  <ead:origination label="pre">Verfasser: Christian Fr. Petersen, Beratender Ingenieur, Kiel</ead:origination>
+                  <ead:abstract>als Beschlussvorlage für die Gemeindevertretung</ead:abstract>
+                  <ead:note>aus Akte 54204</ead:note>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:persname>Petersen, Christian Fr., Ingenieur</ead:persname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Datenlizenz Deutschland - Namensnennung - Version 2.0; www.govdata.de/dl-de/by-2-0</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka02659</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901029169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.5 Einzelne Stadtteile</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F109010F9169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.5.4 Innenstadt Nord</ead:unittitle>
+              </ead:did>
+              <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901E79169" otherlevel="file">
+                <ead:did>
+                  <ead:unittitle>1.5.4.1 Brunswik</ead:unittitle>
+                </ead:did>
+                <ead:c level="file" id="3597" otherlevel="file">
+                  <ead:did>
+                    <ead:unitid>Ka  256</ead:unitid>
+                    <ead:unittitle>Kiel - Mitte: Grenze des lübischen und des Sachsenrechts in der Stadt Kiel (Vorderseite)</ead:unittitle>
+                    <ead:unitdate>1897</ead:unitdate>
+                    <ead:physdesc>
+                      <ead:dimensions>Breite in cm: 34</ead:dimensions>
+                      <ead:dimensions>Länge in cm: 100</ead:dimensions>
+                      <ead:dimensions>Maßstab: a) 1:2000 b) 1:1000</ead:dimensions>
+                    </ead:physdesc>
+                    <ead:materialspec>Lithographie auf Papier</ead:materialspec>
+                    <ead:origination label="pre">Verfasser: Hugo Bernhard Jahn</ead:origination>
+                    <ead:origination label="pre">Herausgeber: Lithographische Anstalt Gisevius,</ead:origination>
+                    <ead:note>Rückseite: Musterblatt: Schlußvermessungs-Grundkarte der Gemarkung Dahme (Blumerode-Steinberg)</ead:note>
+                  </ead:did>
+                  <ead:index>
+                    <ead:indexentry>
+                      <ead:persname>Jahn, Hugo Bernhard | 1053292694</ead:persname>
+                      <ead:persname>Gisevius, Bogdan | 6056042-3</ead:persname>
+                      <ead:geogname>Damperhof</ead:geogname>
+                      <ead:geogname>Brunswik</ead:geogname>
+                    </ead:indexentry>
+                  </ead:index>
+                  <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                  <ead:otherfindaid>
+                    <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                  </ead:otherfindaid>
+                  <ead:daogrp>
+                    <ead:daodesc>
+                      <ead:list>
+                        <ead:item>
+                          <ead:name>Ka00256</ead:name>
+                        </ead:item>
+                      </ead:list>
+                    </ead:daodesc>
+                  </ead:daogrp>
+                </ead:c>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901879169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.4 Kartenwerke</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901D39169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.4.18 Fluchtlinienpläne</ead:unittitle>
+              </ead:did>
+              <ead:c level="file" id="4696" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka 5411 b</ead:unitid>
+                  <ead:unittitle>Fluchtlinienplan: Liliencronstraße, Claudiusstraße, Redinskamp, Frenssenstraße, Fritz-Reuter-Straße, Ottomar-Enking-Straße</ead:unittitle>
+                  <ead:unitdate>1916</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Maßstab: 1:1000</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:origination>Stadtplanungsamt</ead:origination>
+                  <ead:origination label="pre">Gemeinde Pries</ead:origination>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:geogname>Pries-Friedrichsort</ead:geogname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka05411-b</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+              <ead:c level="file" id="6803" otherlevel="file">
+                <ead:did>
+                  <ead:unitid>Ka 5265 b</ead:unitid>
+                  <ead:unittitle>Höhenplan zum Fluchtlinienplan für die Straßenanlagen an der Ostseite des Kieler Bahnhofs nördlich der Lübecker Chaussee in der Gemeinde Gaarden</ead:unittitle>
+                  <ead:unitdate>1907</ead:unitdate>
+                  <ead:physdesc>
+                    <ead:dimensions>Maßstab: 1:1000; 1:100</ead:dimensions>
+                  </ead:physdesc>
+                  <ead:origination>Stadtplanungsamt</ead:origination>
+                  <ead:origination label="pre">Gemeinde Gaarden-Süd</ead:origination>
+                  <ead:origination label="pre">Verfasser: Tiefbauamt</ead:origination>
+                  <ead:abstract>Straße 32 (projektierte Verbindung zwischen Werftbahnstraße und Werftstraße); Straße 33 (Finnlandstraße zwischen Schwedendamm und Zum Brook); Straße 34 (Schwedendamm); Straße 35 (Werftbahnstraße); Bahnhofstraße</ead:abstract>
+                </ead:did>
+                <ead:index>
+                  <ead:indexentry>
+                    <ead:geogname>Gaarden-Süd mit Kronsburg</ead:geogname>
+                  </ead:indexentry>
+                </ead:index>
+                <ead:accessrestrict>Gemeinfrei (Public Domain Mark 1.0); http://creativecommons.org/publicdomain/mark/1.0/deed.de</ead:accessrestrict>
+                <ead:otherfindaid>
+                  <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                </ead:otherfindaid>
+                <ead:daogrp>
+                  <ead:daodesc>
+                    <ead:list>
+                      <ead:item>
+                        <ead:name>Ka05265-b</ead:name>
+                      </ead:item>
+                    </ead:list>
+                  </ead:daodesc>
+                </ead:daogrp>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+          <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901169169" otherlevel="file">
+            <ead:did>
+              <ead:unittitle>1.7 Zeichnungen / Bauentwürfe nach Straßenalphabet</ead:unittitle>
+            </ead:did>
+            <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901749169" otherlevel="file">
+              <ead:did>
+                <ead:unittitle>1.7.27 Andere Gemeinden</ead:unittitle>
+              </ead:did>
+              <ead:c level="class" id="KO_4B6F7069-6574-5a65-9b73-F10901CC9169" otherlevel="file">
+                <ead:did>
+                  <ead:unittitle>1.7.27.2 Strande</ead:unittitle>
+                </ead:did>
+                <ead:c level="file" id="3977" otherlevel="file">
+                  <ead:did>
+                    <ead:unitid>Ka  4161</ead:unitid>
+                    <ead:unittitle>Leuchtturm Bülk: Deckblatt zum Entwurf für die Erneuerung des Turmkopfes / Ansicht</ead:unittitle>
+                    <ead:unitdate>1968</ead:unitdate>
+                    <ead:physdesc>
+                      <ead:dimensions>Breite in cm: 45</ead:dimensions>
+                      <ead:dimensions>Länge in cm: 75</ead:dimensions>
+                      <ead:dimensions>Maßstab: 1:10</ead:dimensions>
+                    </ead:physdesc>
+                    <ead:materialspec>Kopie</ead:materialspec>
+                    <ead:origination>Schifffahrtsmuseum</ead:origination>
+                    <ead:origination label="pre">Wasser- und Schifffahrtsamt</ead:origination>
+                    <ead:origination label="pre">Verfasser: Hochbaubüro der Wasser- und Schifffahrtsverwaltung</ead:origination>
+                  </ead:did>
+                  <ead:accessrestrict>urheberrechtlich geschützt</ead:accessrestrict>
+                  <ead:otherfindaid>
+                    <ead:extref>Titelaufnahme im Angebot des Archivs</ead:extref>
+                  </ead:otherfindaid>
+                  <ead:daogrp>
+                    <ead:daodesc>
+                      <ead:list>
+                        <ead:item>
+                          <ead:name>Ka04161</ead:name>
+                        </ead:item>
+                      </ead:list>
+                    </ead:daodesc>
+                  </ead:daogrp>
+                </ead:c>
+              </ead:c>
+            </ead:c>
+          </ead:c>
+        </ead:c>
+      </ead:c>
+    </ead:dsc>
+    <ead:processinfo>
+      <ead:list>
+        <ead:item>Administrator, Goobi</ead:item>
+      </ead:list>
+    </ead:processinfo>
+  </ead:archdesc>
+  <ead:control>
+    <ead:maintenancehistory>
+      <ead:maintenanceevent>
+        <ead:eventtype>Created</ead:eventtype>
+        <ead:eventdatetime>2023-02-17 09:16:09</ead:eventdatetime>
+      </ead:maintenanceevent>
+    </ead:maintenancehistory>
+  </ead:control>
+</ead:ead>
